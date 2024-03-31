@@ -11,19 +11,21 @@
 ## 🛸 My Fleet (Experience)
 
 <details>
-<summary>🎨 Maisha Design, London - ML Engineer</summary>
+<summary>🎨 Maisha Design, London - ML Consultant</summary>
 I wave my wand to design intelligent spaces with Machine Learning.
-</details>
-
-<details>
-<summary>🔬 Society for Space Education, Research Intern</summary>
-Treading through terrains of Digital Elevation Models, just like on Mars.
 </details>
 
 <details>
 <summary>👗 VISTA, Milan - ML Consultant</summary>
 Crafting algorithms to cut cloth, not corners in fashion.
 </details>
+
+<details>
+<summary>🔬 Rishabh Corporation, Business Owner</summary>
+Treading through terrains of Digital Elevation Models, just like on Mars.
+</details>
+
+
 
 ## 🌌 Education Odyssey
 
