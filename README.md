@@ -50,6 +50,6 @@ Machine Learning Libraries
 ## 🌐 Connect with Me
 - LinkedIn: [Rishabh Jain](https://www.linkedin.com/in/rishabhjainphysics/)
 - GitHub: [Rishie123](https://github.com/Rishie123)
-- Email: [rishabh.7587548213@gmail.com](mailto:rishabh.7587548213@gmail.com)
+- Email: [rj23@imperial.ac.uk](mailto:rishabh.7587548213@gmail.com)
 
 Let's collaborate on projects, discuss the future of AI, or share ideas over coffee!
