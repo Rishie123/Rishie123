@@ -20,10 +20,6 @@ I wave my wand to design intelligent spaces with Machine Learning.
 Crafting algorithms to cut cloth, not corners in fashion.
 </details>
 
-<details>
-<summary>🔬 Rishabh Corporation, Business Owner</summary>
-Treading through terrains of Digital Elevation Models, just like on Mars.
-</details>
 
 
 
