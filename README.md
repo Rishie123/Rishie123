@@ -1,51 +1,15 @@
+👋 Hi, I'm Rishabh Jain
+Machine Learning Specialist | AI Strategist | Physics Explorer
+📍 United Kingdom | 🎓 MRes @ Imperial College London
+🔭 Exploring AI at scale – from solar orbits to GenAI strategy
 
-# 🌟 Welcome to Rishabh Jain's Universe 🌟
+🛰️ Worked with ESA & NASA’s Solar Orbiter mission, using ML to analyze magnetometer data
 
+🧠 Former AI Strategy Analyst at HSBC UK, building GenAI tools with business value (£6M use case)
 
-## 👨‍🚀 About the Explorer
+🎨 Built AI products for interior design (Maisha Design) and fashion waste minimization (Vista SRL)
 
-- 🚀 I'm an interstellar traveller in the field of **Machine Learning & Big Data**.
-- 🔭 Currently decoding the secrets of the cosmos with magnetometer data at ESA’s Solar Orbiter mission.
-- 💡 Illuminating the dark matter of data with my saber of algorithms.
+🧪 Physics background with research at PRL Ahmedabad and Madras Christian College
 
-## 🛸 My Fleet (Experience)
-
-<details>
-<summary>🎨 Maisha Design, London - ML Consultant</summary>
-I wave my wand to design intelligent spaces with Machine Learning.
-</details>
-
-<details>
-<summary>👗 VISTA, Milan - ML Consultant</summary>
-Crafting algorithms to cut cloth, not corners in fashion.
-</details>
-
-
-
-
-## 🌌 Education Odyssey
-
-- **MRes Machine Learning & Big Data in Physics** - Currently reading stars at Imperial College London.
-- **BSc Physics** - Played with quarks at Madras Christian College.
-
-## 🛠 Toolbox
-```plaintext
-Python       ████████████████░░░░   90%
-R            ████████████░░░░░░░░   70%
-SQL          ██████████████░░░░░░   80%
-Machine Learning Libraries
-- XGBoost    ███████████████░░░░░   85%
-- Pytorch    ███████████░░░░░░░░░   65%
-```
-
-## 🌟 Highlights
-- General Secretary of Scrub Society with 3000+ members.
-- Special Mention at the International Model United Nations.
-- Winner of the midnight bounty at the ETH Oxford Hackathon.
-
-## 🌐 Connect with Me
-- LinkedIn: [Rishabh Jain](https://www.linkedin.com/in/rishabhjainphysics/)
-- GitHub: [Rishie123](https://github.com/Rishie123)
-- Email: [rj23@imperial.ac.uk](mailto:rishabh.7587548213@gmail.com)
-
-Let's collaborate on projects, discuss the future of AI, or share ideas over coffee!
+🔗 Connect with me on LinkedIn
+📁 Check out my projects on GitHub
