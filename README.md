@@ -7,7 +7,7 @@ Machine Learning Specialist | AI Strategist | Physics Explorer
 
 🧠 Former AI Strategy Analyst at HSBC UK, building GenAI tools with business value (£6M use case)
 
-🎨 Built AI products for interior design (Maisha Design) and fashion waste minimization (Vista SRL)
+🎨 Built AI products for interior design (Maisha Design) and fashion waste minimization
 
 🧪 Physics background with research at PRL Ahmedabad and Madras Christian College
 
